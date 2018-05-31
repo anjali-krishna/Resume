@@ -19,6 +19,7 @@ An intensive 24-week long boot camp dedicated to Data Mining Methods and Techniq
 Preparation for Data Mining and Advanced Methods and Applications
 
 **Cochin University of Science & Technology, Kochi, India** 2010 - 2014
+
 B.Tech Electronics & Communications Engineering
 
 ## Core Competencies
