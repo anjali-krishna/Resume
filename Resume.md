@@ -78,9 +78,9 @@ Centre/ALM.
 ```
 ## Internship
 
-**Systems Engineer Intern
+**Systems Engineer Intern**
 
-Infosys Technologies Limited, Mysore, India** 2014 - 2015
+**Infosys Technologies Limited, Mysore, India** 2014 - 2015
 
 Selected for a 3 month internship out of more than 200 applicants.
 ```
