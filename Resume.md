@@ -3,11 +3,9 @@
 
 anjali.vengayil@gmail.com​ | +1-512-839-3530 | Austin, Texas
 https://github.com/anjali-krishna​ |​https://www.linkedin.com/in/anjali-krishna-vengayil-b537a4133/
-_Multi-faceted, highly competent, adaptable and resourceful information systems professional_
-
-## with about 2 years of recent hands-on experience in Software Testing ​ , with newly acquired
-
-_skills, an insatiable intellectual curiosity, and the ability to mine hidden gems located within large
+Multi-faceted, highly competent, adaptable and resourceful information systems professional_
+with about 2 years of recent hands-on experience in Software Testing ​ , with newly acquired
+skills, an insatiable intellectual curiosity, and the ability to mine hidden gems located within large
 sets of structured, semi-structured and unstructured data. Able to leverage a heavy dose of
 mathematics and applied statistics with visualization and a healthy sense of exploration._
 
