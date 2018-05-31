@@ -47,9 +47,6 @@ Python API’s
 ● Created a Python script to visualize the weather of 500+ cities across the world of
 varying distance from the equator utilising the OpenWeatherMap API and illustrated the
 results as scatter plot.
-```
-
-```
 ● Created a python script to perform a sentiment analysis of the Twitter activity of various
 news outlets and build a twitter bot that sends out visualized sentiment analysis of a
 Twitter accounts recents tweets.
@@ -62,7 +59,9 @@ uncovered hidden trends using advanced excel formulas and techniques.
 ## Experience
 
 **Infosys Technologies Limited, Bangalore, India** 2015 - 2016
+
 **Test Engineer**
+
 Exemplified effectiveness in collaborating with other technical and non-technical professionals
 to drive timely completion of complex projects and assignments.
 ```
@@ -80,7 +79,9 @@ Centre/ALM.
 ## Internship
 
 **Systems Engineer Intern
+
 Infosys Technologies Limited, Mysore, India** 2014 - 2015
+
 Selected for a 3 month internship out of more than 200 applicants.
 ```
 ● Handled database and Web site programming tasks (primarily using Java, C, C++, .NET,
