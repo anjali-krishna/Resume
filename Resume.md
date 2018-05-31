@@ -63,9 +63,9 @@ uncovered hidden trends using advanced excel formulas and techniques.
 
 **Infosys Technologies Limited, Bangalore, India** 2015 - 2016
 **Test Engineer**
-```
 Exemplified effectiveness in collaborating with other technical and non-technical professionals
 to drive timely completion of complex projects and assignments.
+```
 ● Performed Smoke, Functional, Regression, Black Box, Integration, end-to-end, GUI, &
 Acceptance Testing.
 ● Analyzed functional requirements from Business Analyst, developed and executed test
