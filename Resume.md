@@ -13,7 +13,8 @@ mathematics and applied statistics with visualization and a healthy sense of exp
 ## EDUCATION
 
 **The University of Texas at Austin, Austin, Texas** 2018 - present
-Data Analytics & Visualization Bootcamp
+
+**Data Analytics & Visualization Bootcamp**
 An intensive 24-week long boot camp dedicated to Data Mining Methods and Techniques, Data
 Preparation for Data Mining and Advanced Methods and Applications
 
