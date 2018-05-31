@@ -63,6 +63,7 @@ uncovered hidden trends using advanced excel formulas and techniques.
 
 **Infosys Technologies Limited, Bangalore, India** 2015 - 2016
 **Test Engineer**
+```
 Exemplified effectiveness in collaborating with other technical and non-technical professionals
 to drive timely completion of complex projects and assignments.
 ● Performed Smoke, Functional, Regression, Black Box, Integration, end-to-end, GUI, &
@@ -75,11 +76,13 @@ and project members.
 ● Working experience in using Test Management and Defect Tracking tool HP Quality
 Centre/ALM.
 ● Performed root cause analysis and implemented defect prevention strategies.
-
+```
 ## Internship
 
 **Systems Engineer Intern
 Infosys Technologies Limited, Mysore, India** 2014 - 2015
 Selected for a 3 month internship out of more than 200 applicants.
+```
 ● Handled database and Web site programming tasks (primarily using Java, C, C++, .NET,
 DBMS
+```
