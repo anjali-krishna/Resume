@@ -83,8 +83,3 @@ Infosys Technologies Limited, Mysore, India** 2014 - 2015
 Selected for a 3 month internship out of more than 200 applicants.
 ● Handled database and Web site programming tasks (primarily using Java, C, C++, .NET,
 DBMS
-
-
-
-This is a offline tool, your data stays locally and is not send to any server!
-Feedback & Bug Reports
