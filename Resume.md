@@ -8,7 +8,7 @@ Multi-faceted, highly competent, adaptable and resourceful information systems p
 with about 2 years of recent hands-on experience in Software Testing ​ , with newly acquired
 skills, an insatiable intellectual curiosity, and the ability to mine hidden gems located within large
 sets of structured, semi-structured and unstructured data. Able to leverage a heavy dose of
-mathematics and applied statistics with visualization and a healthy sense of exploration._
+mathematics and applied statistics with visualization and a healthy sense of exploration.
 
 ## EDUCATION
 
